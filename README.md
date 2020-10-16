@@ -1,2 +1,2 @@
 # food-blog-website
-hellow mr lathiya can you accept my requets
+full responsive food blog website templete
